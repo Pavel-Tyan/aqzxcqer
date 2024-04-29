@@ -1,0 +1,13 @@
+:root {
+  --primary: #221d1d;
+  --secondary: #ffffff;
+  --border-radius: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}

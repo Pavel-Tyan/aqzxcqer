@@ -1,0 +1,15 @@
+.appWrapper {
+  background: var(--primary);
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100svh;
+  width: 100svw;
+  gap: 100px;
+}
+
+.appText {
+  color: var(--secondary);
+  font-size: 30px;
+}

@@ -1,0 +1,16 @@
+.button {
+  height: 45px;
+  width: 45px;
+  border: 1px solid var(--primary);
+  font-size: 18px;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background: var(--primary);
+  color: var(--secondary);
+  transition: background 0.3s;
+  border: 1px solid var(--secondary);
+}
